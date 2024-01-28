@@ -8,9 +8,9 @@ on:
     branches:
       - master
 
-# env:
-#   SEMESTER: "00"
-#   SUBJECT: "example"
+env:
+  SEMESTER: "03"
+  SUBJECT: "PT"
 
 jobs:
   build:
